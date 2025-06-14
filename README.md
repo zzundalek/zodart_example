@@ -16,3 +16,5 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 
 [![codecov](https://codecov.io/gh/zzundalek/zodart_example/branch/main/graph/badge.svg)](https://codecov.io/gh/zzundalek/zodart_example)
+
+![coverage](https://img.shields.io/badge/coverage-100%25-brightgreen)
