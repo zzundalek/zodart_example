@@ -1,0 +1,22 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "advent_calendar_JA_01 - Chrome",
+            "request": "launch",
+            "type": "dart",
+            "program": "lib/advent_calendar/01_inital/main.dart",
+            "deviceId": "chrome",
+        },
+        {
+            "name": "advent_calendar_JA_02 - Chrome",
+            "request": "launch",
+            "type": "dart",
+            "program": "lib/advent_calendar/02_zodart_form/main.dart",
+            "deviceId": "chrome",
+        },
+    ]
+}
