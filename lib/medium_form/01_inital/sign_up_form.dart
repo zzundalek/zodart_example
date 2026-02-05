@@ -56,5 +56,5 @@ class _SignUpFormState extends State<SignUpForm>
   final formKey = GlobalKey<FormState>();
 
   @override
-  ZRes<User> parseFunction(dynamic val) => UserSchema.z.zObject.parse(val);
+  ZRes<User> parseFunction(dynamic val) => UserSchema.zObject.parse(val);
 }
