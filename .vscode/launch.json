@@ -18,5 +18,19 @@
             "program": "lib/advent_calendar/02_zodart_form/main.dart",
             "deviceId": "chrome",
         },
+        {
+            "name": "form_validation_01 - Chrome",
+            "request": "launch",
+            "type": "dart",
+            "program": "lib/medium_form/01_inital/main.dart",
+            "deviceId": "chrome",
+        },
+        {
+            "name": "form_validation_02 - Chrome",
+            "request": "launch",
+            "type": "dart",
+            "program": "lib/medium_form/02_language_selector/main.dart",
+            "deviceId": "chrome",
+        },
     ]
 }
